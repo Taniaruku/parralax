@@ -1,0 +1,24 @@
+.parralax-window{
+	min-height: 800px;
+	background: transparent;
+}
+
+
+ .parralax-window .content  {
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+.parralax-window .content  h3{
+	color:#fff;
+	font-size: 4rem;
+
+}
+
+ .parralax-window .content  p{
+	color:#fff;
+	font-size: 1rem;
+	
+}
